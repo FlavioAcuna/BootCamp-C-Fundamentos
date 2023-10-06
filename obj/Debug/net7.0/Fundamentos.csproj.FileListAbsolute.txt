@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
